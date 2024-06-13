@@ -1,0 +1,11 @@
+com\xhmata\user\UserApplication.class
+com\xhmata\user\config\WebSecurityConfig.class
+com\xhmata\user\model\User.class
+com\xhmata\user\repository\UserRepository.class
+com\xhmata\user\service\UserService.class
+com\xhmata\user\model\Role.class
+com\xhmata\user\service\UserServiceImpl.class
+com\xhmata\user\model\User$UserBuilder.class
+com\xhmata\user\service\UserDetailsServiceImpl.class
+com\xhmata\user\config\WebSecurityConfig$1.class
+com\xhmata\user\controller\UserController.class
